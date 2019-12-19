@@ -217,11 +217,11 @@ button, input, select, textarea {
     line-height: inherit;
 }
 a {
-    color: #7E9CC7;
+    color: #6495ED;
     text-decoration: none;
 }
 a:focus, a:hover {
-    color: #ffffff;
+    color: #FF6347;
     text-decoration: underline;
 }
 a:focus {
@@ -285,10 +285,10 @@ hr {
     cursor: pointer;
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: Cabin, Helvetica, Arial, sans-serif;
+    font-family: Baskerville, Helvetica, Arial, sans-serif;
     font-weight: 700;
-    line-height: 1.1;
-    color: #000;
+    line-height: 2.2;
+    color: #808080;
 }
 .h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
     font-weight: 400;
@@ -311,7 +311,7 @@ hr {
     font-size: 44px;
 }
 .h2, h2 {
-    font-family: Courier; font-size: 35px; color: #fff;
+    font-family: Baskerville; font-size: 30px; color: #fff;
 }
 .h3, h3 {
     font-size: 25px;
@@ -1686,12 +1686,12 @@ a.btn.disabled, fieldset[disabled] a.btn {
     border-color: #e00400;
 }
 .btn-primary.active, .btn-primary:active, .btn-primary:hover, .open>.btn-primary.dropdown-toggle {
-    color: #fff;
+    color: #7E9CC7;
     background-color: #7E9CC7;
     border-color: #7E9CC7;
 }
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
-    color: #fff;
+    color: #7E9CC7;
     background-color: #ff0e09;
     border-color: #e00400;
 }
