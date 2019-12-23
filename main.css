@@ -307,23 +307,23 @@ hr {
 }
 .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
     font-size: 75%}
-.h1, h1 {
-    font-size: 44px;
+/* titulos en los projectos*/.h1, h1 {
+    font-family: Product Sans Medium; font-size: 44px;
 }
-.h2, h2 {
-    font-family: Baskerville; font-size: 30px; color: #fff;
+/* titulos en el index*/.h2, h2 {
+    font-family: Product Sans Medium; font-size: 30px; color: #fff;
 }
-.h3, h3 {
-    font-size: 25px;
+/* titulos cuando esta negroen los projectos*/.h3, h3 {
+    font-family: Product Sans Medium; font-size: 44px; color: #fff;
 }
-.h4, h4 {
-    font-size: 19px; color: #fff;
+/* subtitulos index*/.h4, h4 {
+    font-family: Product Sans Light; font-size: 19px; color: #D15933;
 }
 .h5, h5 {
-    font-size: 14px;
+    font-family: Product Sans Medium; font-size: 16px;
 }
 .h6, h6 {
-    font-size: 12px;
+    font-family: Product Sans Medium; font-size: 12px;
 }
 p {
     margin: 0 0 12px;
@@ -2287,6 +2287,7 @@ tbody.collapse.in {
     margin-bottom: 0;
     padding-left: 0;
     list-style: none;
+    color: #000;
 }
 .nav:after, .nav:before {
     content: " ";
@@ -3661,7 +3662,7 @@ main {
     color: #000;
 }
 .nav>li>a.active {
-    font-weight: 900; color: #7E9CC7
+    font-weight: 900; color: #D8711A
 }
 .nav>li>a:hover {
     color: #D58077;
