@@ -3662,7 +3662,7 @@ main {
     color: #000;
 }
 .nav>li>a.active {
-    font-weight: 900; color: #D8711A
+    font-weight: 900; color: #9999ff;
 }
 .nav>li>a:hover {
     color: #D58077;
