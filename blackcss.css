@@ -208,7 +208,7 @@ body {
     font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.78;
-    color: #555;
+    color: #EEEEEE;
     background-color: #fff;
 }
 button, input, select, textarea {
@@ -285,10 +285,10 @@ hr {
     cursor: pointer;
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: Baskerville, Helvetica, Arial, sans-serif;
+    font-family: Product Sans Medium, Source Sans Pro, Helvetica, Arial, sans-serif;
     font-weight: 700;
     line-height: 2.2;
-    color: #808080;
+    color: #EEEEEE;
 }
 .h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
     font-weight: 400;
@@ -320,7 +320,7 @@ hr {
     font-family: Product Sans Light; font-size: 19px; color: #D15933;
 }
 .h5, h5 {
-    font-family: Product Sans Medium; font-size: 16px;
+    font-family: Product Sans Medium; font-size: 18px;
 }
 .h6, h6 {
     font-family: Product Sans Medium; font-size: 19px;
@@ -3659,13 +3659,13 @@ main {
     padding-bottom: 30px;
 }
 .nav-footer a, .nav>li>a {
-    color: #000;
+    color: #fff;
 }
 .nav>li>a.active {
-    font-weight: 900; color: #ff3300;
+    font-weight: 900; color: #EA876F;
 }
 .nav>li>a:hover {
-    color: #D58077;
+    color: #9A5B55;
 }
 .nav-footer-social-buttons {
     margin-bottom: 0;
