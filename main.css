@@ -1,3 +1,13 @@
+@font-face
+{
+   font-family: "Cristalab";
+   src: url("fuentefancy.eot");
+   src: url("fuentefancy.eot?#amocristalab") format("embedded-opentype"),
+        url("fuentefancy.woff") format("woff"),
+        url("fuentefancy.ttf") format("truetype"),
+        url("fuentefancy.svg#IDdelafuente") format("svg");
+}
+
 @import url(https://fonts.googleapis.com/css?family=Cabin:400, 700|Source+Sans+Pro:400, 700);
     @import url(https: //maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
     /*!
