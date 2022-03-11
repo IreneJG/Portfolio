@@ -3621,10 +3621,12 @@ td.visible-print, th.visible-print {
     height: 100%;
     margin: 0;
     padding: 0;
+
 }
 .grid-item:hover .project-description {
     opacity: 1;
     background-color: rgba(0,0,0,0.8);
+    border-radius: 15px;
 
 }
 .section-container-spacer {
