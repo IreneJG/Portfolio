@@ -284,11 +284,11 @@ button, input, select, textarea {
     line-height: inherit;
 }
 a {
-    color: #6495ED;
+    color: #000;
     text-decoration: none;
 }
 a:focus, a:hover {
-    color: #FF6347;
+    color: #e6a395;
     text-decoration: underline;
 }
 a:focus {
@@ -3688,6 +3688,25 @@ main {
     top: 52px;
     padding: 20px;
 }
+
+}.rightbar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 240px;
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: #fff;
+    z-index: 999;
+    -webkit-transition: left .2s linear;
+    -o-transition: left .2s linear;
+    transition: left .2s linear;
+    right: 240px;
+    top: 52px;
+    padding: 20px;
+}
+
 .sidebar .navbar-collapse {
     padding: 0;
 }
