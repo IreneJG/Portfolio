@@ -3626,7 +3626,7 @@ td.visible-print, th.visible-print {
 .grid-item:hover .project-description {
     opacity: 1;
     background-color: rgba(0,0,0,0.8);
-    border-radius: 15px;
+    border-radius: 10000px;
 
 }
 .section-container-spacer {
